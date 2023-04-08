@@ -1,0 +1,32 @@
+/* .layout {
+  float: left;
+  width: 50%;
+  height: 200px;
+  background-color: green;
+  margin-bottom: 1px;
+  border: 1px solid white;
+} */
+
+.header,
+.hero,
+.body,
+.bar,
+.footer {
+  background-color: teal;
+  margin-bottom: 10px;
+}
+.box {
+  margin: 10px 0;
+  min-height: 80px;
+  background-color: red;
+  color: white;
+  font-size: 40px;
+}
+
+.red {
+  background-color: lime;
+}
+
+.teel {
+  background-color: pink;
+}
